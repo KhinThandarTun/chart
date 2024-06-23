@@ -1,1 +1,28 @@
-{}
+{
+    "success": true,
+    "code": 200,
+    "data": [
+        {
+            "empId": "E001",
+            "empName": "San Mar Aye",
+            "empAddress": "Yangon",
+            "empJoinDate": "2024-06-23T00:00:00+06:30",
+            "salary": 500000
+        },
+        {
+            "empId": "E002",
+            "empName": "Ma Su War",
+            "empAddress": "Monywa",
+            "empJoinDate": "2024-06-23T00:00:00+06:30",
+            "salary": 500000
+        },
+        {
+            "empId": "E003",
+            "empName": "Su Ei San",
+            "empAddress": "Mandalay",
+            "empJoinDate": "2024-06-23T00:00:00+06:30",
+            "salary": 500000
+        }
+    ],
+    "message": null
+}
